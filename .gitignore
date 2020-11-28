@@ -1,3 +1,5 @@
+word-count-beam
+txn_log.log
 build
 checkpoint
 *.log
